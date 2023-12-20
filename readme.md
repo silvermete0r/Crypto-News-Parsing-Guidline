@@ -1,4 +1,4 @@
-# Guidline for parcing crypto news data from NewsAPI
+# Guidline for parsing crypto news data from NewsAPI
 <a href="https://github.com/silvermete0r/jacque-fresco-quotes-api">
     <img src="https://img.shields.io/github/stars/silvermete0r/Crypto-News-Parsing-Guidline?style=social">
 </a> 
