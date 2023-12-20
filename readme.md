@@ -1,11 +1,11 @@
 # Guidline for parsing crypto news data from NewsAPI
-<a href="https://github.com/silvermete0r/jacque-fresco-quotes-api">
+<a href="https://github.com/silvermete0r/Crypto-News-Parsing-Guidline">
     <img src="https://img.shields.io/github/stars/silvermete0r/Crypto-News-Parsing-Guidline?style=social">
 </a> 
-<a href="https://github.com/silvermete0r/jacque-fresco-quotes-api">
+<a href="https://github.com/silvermete0r/Crypto-News-Parsing-Guidline">
     <img src="https://img.shields.io/github/forks/silvermete0r/Crypto-News-Parsing-Guidline?style=plastic">
 </a> 
-<a href="https://github.com/silvermete0r/jacque-fresco-quotes-api">
+<a href="https://github.com/silvermete0r/Crypto-News-Parsing-Guidline">
     <img src="https://img.shields.io/github/license/silvermete0r/Crypto-News-Parsing-Guidline?style=plastic">
 </a>
 
